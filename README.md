@@ -57,3 +57,7 @@ jupyter notebook loan_approval_classification.ipynb
 
 ## Dataset Source
 Kaggle: https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data
+
+## Model Comparison
+This project compares Logistic Regression, Random Forest, and Gradient Boosting models for loan approval classification
+
